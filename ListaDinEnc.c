@@ -242,12 +242,12 @@ int main(){
     a1.notas[0] = 8.50;
     a1.notas[1] = 9.2;
     a1.notas[2] = 6.9;
-    strcpy(a2.nome,"Kalil");
+    strcpy(a2.nome,"Samuel");
     a2.matricula = 1612521;
     a2.notas[0] = 8.50;
     a2.notas[1] = 9.2;
     a2.notas[2] = 6.9;
-    strcpy(a3.nome,"Holanda");
+    strcpy(a3.nome,"Lucas");
     a3.matricula = 1612519;
     a3.notas[0] = 8.50;
     a3.notas[1] = 9.2;
