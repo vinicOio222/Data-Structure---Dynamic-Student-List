@@ -18,3 +18,4 @@ int remove_lista_final(Lista* li);
 int tamanho_lista(Lista* li);
 void busca_lista_mat(Lista* li, int mat);
 void busca_lista_pos(Lista* li, int pos);
+
